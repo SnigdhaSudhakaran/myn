@@ -55,3 +55,29 @@ nav ul li a{
         width: 1700px;
     }
 }
+
+
+.last h4{
+    font-weight: 900px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 50px;
+}
+
+
+.cus h4{
+    font-weight: 900px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 350px;
+    margin-top: -195px;
+}
+
+.cus p{
+    margin-left: 350px;
+}
+
+@media(max-width:1500px){
+.last{
+    width: 1200px;
+}
+}
+
